@@ -19,7 +19,6 @@ public static void main(String[] args) throws IOException, InterruptedException 
         opcaoDesejada = leitura.nextInt();
         converter.converter(opcaoDesejada, moedas.getBRL(), moedas.getAUD(), moedas.getARS(), moedas.getUSD());
         gerarLog.gerarLog();
-
     }
     leitura.close();
 }
