@@ -1,5 +1,5 @@
 
-# Conversor de model.Moedas
+# Conversor de Moedas
 
 Este projeto é um **Conversor de model.Moedas** que utiliza uma API para obter taxas de câmbio em tempo real e converter valores entre diferentes moedas. Desenvolvido em Java, o programa é interativo e fácil de usar, permitindo conversões entre Real (BRL), Dólar Americano (USD), Peso Argentino (ARS) e Dólar Australiano (AUD).
 
