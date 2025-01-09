@@ -1,3 +1,5 @@
+package model;
+
 import java.util.Map;
 
 public record ConversaoEspecifica(String time_last_update_utc,

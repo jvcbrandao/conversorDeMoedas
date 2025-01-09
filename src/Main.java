@@ -1,3 +1,9 @@
+import controller.GeradorLog;
+import model.Conversao;
+import model.Moedas;
+import model.RequisicaoAPI;
+import model.Textos;
+
 import java.io.IOException;
 import java.util.Scanner;
 

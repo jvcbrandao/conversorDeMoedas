@@ -1,7 +1,9 @@
+package model;
+
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Conversao extends RequisicaoAPI{
+public class Conversao extends RequisicaoAPI {
     Scanner scanner = new Scanner(System.in);
 
     private double BRL;
