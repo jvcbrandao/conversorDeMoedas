@@ -12,7 +12,8 @@ import java.util.Map;
 public class RequisicaoAPI{
 
     public Moedas conectarAPI() throws IOException, InterruptedException {
-        String chave = "b7c5ac50137afdd992a212c9";
+        String chave = "INSIRA SUA CHAVE API AQUI";
+        
         String endereco = "https://v6.exchangerate-api.com/v6/" + chave + "/latest/USD";
 
         HttpClient client = HttpClient.newHttpClient();
